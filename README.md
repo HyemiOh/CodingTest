@@ -12,6 +12,7 @@
 | 2 | [신규 아이디 추천](Programmers/Lv1/신규%20아이디%20추천.md) |
 | 3 | [숫자 짝꿍](Programmers/Lv1/숫자%20짝꿍.md) |
 | 4 | [없는 숫자 더하기](Programmers/Lv1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |
+| 5 | [핸드폰 번호 가리기](Programmers/Lv1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md) |
 
 ### Level 2
 | 번호 | 풀이 |
