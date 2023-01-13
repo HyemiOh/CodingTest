@@ -14,6 +14,7 @@
 | 4 | [없는 숫자 더하기](Programmers/Lv1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md) |
 | 5 | [핸드폰 번호 가리기](Programmers/Lv1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md) |
 | 6 | [실패율](Programmers/Lv1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md) |
+| 7 | [부족한 금액 계산하기](Programmers/Lv1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.md) |
 
 ### Level 2
 | 번호 | 풀이 |
