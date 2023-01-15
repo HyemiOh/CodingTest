@@ -16,6 +16,7 @@
 | 6 | [실패율](Programmers/Lv1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md) |
 | 7 | [부족한 금액 계산하기](Programmers/Lv1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.md) |
 | 8 | [신고 결과 받기](Programmers/Lv1/신고%20결과%20받기.md) |
+| 9 | [성격 유형 검사하기](Programmers/Lv1/성격%20유형%20검사하기.md) |
 
 ### Level 2
 | 번호 | 풀이 |
