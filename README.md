@@ -18,6 +18,7 @@
 | 8 | [신고 결과 받기](Programmers/Lv1/신고%20결과%20받기.md) |
 | 9 | [성격 유형 검사하기](Programmers/Lv1/성격%20유형%20검사하기.md) |
 | 10 | [나머지가 1이 되는 수 찾기](Programmers/Lv1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) |
+| 11 | [숫자 영단어와 문자열](Programmers/Lv1/숫자%20영단어와%20문자열.md) |
 
 ### Level 2
 | 번호 | 풀이 |
