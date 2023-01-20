@@ -20,8 +20,8 @@
 | 10 | [나머지가 1이 되는 수 찾기](Programmers/Lv1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) |
 | 11 | [숫자 영단어와 문자열](Programmers/Lv1/숫자%20영단어와%20문자열.md) |
 | 12 | [제일 작은 수 제거하기](Programmers/Lv1/제일%20작은%20수%20제거하기.md) |
-| 13 | [시저암호](Programmers/Lv1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.md) |
-
+| 13 | [삼총사](Programmers/Lv1/%EC%82%BC%EC%B4%9D%EC%82%AC.md) |
+| 14 | [시저암호](Programmers/Lv1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.md) |
 
 ### Level 2
 | 번호 | 풀이 |
