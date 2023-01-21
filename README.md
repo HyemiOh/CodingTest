@@ -22,6 +22,7 @@
 | 12 | [제일 작은 수 제거하기](Programmers/Lv1/제일%20작은%20수%20제거하기.md) |
 | 13 | [삼총사](Programmers/Lv1/%EC%82%BC%EC%B4%9D%EC%82%AC.md) |
 | 14 | [시저암호](Programmers/Lv1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.md) |
+| 15 | [최소직사각형](Programmers/Lv1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md) |
 
 ### Level 2
 | 번호 | 풀이 |
