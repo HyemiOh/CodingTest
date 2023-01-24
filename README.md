@@ -24,6 +24,7 @@
 | 14 | [시저암호](Programmers/Lv1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8.md) |
 | 15 | [최소직사각형](Programmers/Lv1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md) |
 | 16 | [모의고사](Programmers/Lv1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md) |
+| 17 | [로또의 최고 순위와 최저 순위](Programmers/Lv1/로또의%20최고%20순위와%20최저%20순위.md) |
 
 ### Level 2
 | 번호 | 풀이 |
