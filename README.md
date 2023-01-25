@@ -25,6 +25,7 @@
 | 15 | [최소직사각형](Programmers/Lv1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md) |
 | 16 | [모의고사](Programmers/Lv1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md) |
 | 17 | [로또의 최고 순위와 최저 순위](Programmers/Lv1/로또의%20최고%20순위와%20최저%20순위.md) |
+| 18 | [체육복](Programmers/Lv1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md) |
 
 ### Level 2
 | 번호 | 풀이 |
