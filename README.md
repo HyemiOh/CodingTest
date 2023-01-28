@@ -27,7 +27,8 @@
 | 17 | [로또의 최고 순위와 최저 순위](Programmers/Lv1/로또의%20최고%20순위와%20최저%20순위.md) |
 | 18 | [체육복](Programmers/Lv1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md) |
 | 19 | [K번째수](Programmers/Lv1/K%EB%B2%88%EC%A7%B8%EC%88%98.md) |
-| 20 | [콜라 문제](Programmers/Lv1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md) |
+| 20 | [하샤드 수](Programmers/Lv1/하샤드%20수.md) |
+| 21 | [콜라 문제](Programmers/Lv1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md) |
 
 ### Level 2
 | 번호 | 풀이 |
