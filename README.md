@@ -28,9 +28,10 @@
 | 18 | [체육복](Programmers/Lv1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md) |
 | 19 | [K번째수](Programmers/Lv1/K%EB%B2%88%EC%A7%B8%EC%88%98.md) |
 | 20 | [하샤드 수](Programmers/Lv1/하샤드%20수.md) |
-| 21 | [서울에서 김서방 찾기](Programmers/Lv1/서울에서%20김서방%20찾기.md) |
-| 22 | [x만큼 간격이 있는 n개의 숫자](Programmers/Lv1/x만큼%20간격이%20있는%20n개의%20숫자.md) |
-| 23 | [음양 더하기](Programmers/Lv1/음양%20더하기.md) |
+| 21 | [콜라 문제](Programmers/Lv1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md) |
+| 22 | [서울에서 김서방 찾기](Programmers/Lv1/서울에서%20김서방%20찾기.md) |
+| 23 | [x만큼 간격이 있는 n개의 숫자](Programmers/Lv1/x만큼%20간격이%20있는%20n개의%20숫자.md) |
+| 24 | [음양 더하기](Programmers/Lv1/음양%20더하기.md) |
 
 ### Level 2
 | 번호 | 풀이 |
