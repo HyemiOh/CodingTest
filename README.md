@@ -33,6 +33,7 @@
 | 23 | [x만큼 간격이 있는 n개의 숫자](Programmers/Lv1/x만큼%20간격이%20있는%20n개의%20숫자.md) |
 | 24 | [음양 더하기](Programmers/Lv1/음양%20더하기.md) |
 | 25 | [콜라츠 추측](Programmers/Lv1/콜라츠%20추측.md) |
+| 26 | [소수 만들기](Programmers/Lv1/소수%20만들기.md) |
 
 ### Level 2
 | 번호 | 풀이 |
