@@ -34,6 +34,7 @@
 | 24 | [음양 더하기](Programmers/Lv1/음양%20더하기.md) |
 | 25 | [콜라츠 추측](Programmers/Lv1/콜라츠%20추측.md) |
 | 26 | [소수 만들기](Programmers/Lv1/소수%20만들기.md) |
+| 27 | [약수의 개수와 덧셈](Programmers/Lv1/약수의%20개수와%20덧셈.md) |
 
 ### Level 2
 | 번호 | 풀이 |
