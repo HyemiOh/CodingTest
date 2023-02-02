@@ -36,6 +36,8 @@
 | 26 | [소수 만들기](Programmers/Lv1/소수%20만들기.md) |
 | 27 | [약수의 개수와 덧셈](Programmers/Lv1/약수의%20개수와%20덧셈.md) |
 | 28 | [3진법 뒤집기](Programmers/Lv1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md) |
+| 29 | [내적](Programmers/Lv1/%EB%82%B4%EC%A0%81.md) |
+
 
 ### Level 2
 | 번호 | 풀이 |
