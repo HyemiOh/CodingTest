@@ -37,6 +37,7 @@
 | 27 | [약수의 개수와 덧셈](Programmers/Lv1/약수의%20개수와%20덧셈.md) |
 | 28 | [3진법 뒤집기](Programmers/Lv1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md) |
 | 29 | [내적](Programmers/Lv1/%EB%82%B4%EC%A0%81.md) |
+| 30 | [나누어 떨어지는 숫자 배열](Programmers/Lv1/나누어%20떨어지는%20숫자%20배열.md) |
 
 
 ### Level 2
