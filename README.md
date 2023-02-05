@@ -39,6 +39,7 @@
 | 29 | [내적](Programmers/Lv1/%EB%82%B4%EC%A0%81.md) |
 | 30 | [나누어 떨어지는 숫자 배열](Programmers/Lv1/나누어%20떨어지는%20숫자%20배열.md) |
 | 31 | [기사단원의 무기](Programmers/Lv1/기사단원의%20무기.md) |
+| 32 | [문자열 나누기](Programmers/Lv1/문자열%20나누기.md) |
 
 
 ### Level 2
