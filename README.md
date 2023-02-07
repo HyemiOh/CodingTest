@@ -41,6 +41,7 @@
 | 31 | [기사단원의 무기](Programmers/Lv1/기사단원의%20무기.md) |
 | 32 | [문자열 나누기](Programmers/Lv1/문자열%20나누기.md) |
 | 33 | [푸드 파이터 대회](Programmers/Lv1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EB%8C%80%ED%9A%8C.md) |
+| 34 | [과일 장수](Programmers/Lv1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.md) |
 
 
 ### Level 2
