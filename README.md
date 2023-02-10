@@ -44,6 +44,7 @@
 | 34 | [과일 장수](Programmers/Lv1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.md) |
 | 35 | [가장 가까운 같은 글자](Programmers/Lv1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.md) |
 | 36 | [크기가 작은 부분문자열](Programmers/Lv1/크기가%20작은%20부분문자열.md)
+| 37 | [직사각형 별찍기](Programmers/Lv1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
 
 ### Level 2
 | 번호 | 풀이 |
