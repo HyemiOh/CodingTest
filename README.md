@@ -46,6 +46,7 @@
 | 36 | [크기가 작은 부분문자열](Programmers/Lv1/크기가%20작은%20부분문자열.md)
 | 37 | [직사각형 별찍기](Programmers/Lv1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
 | 38 | [햄버거 만들기](Programmers/Lv1/햄버거%20만들기.md)
+| 39 | [행렬의 덧셈](Programmers/Lv1/행렬의%20덧셈.md)
 
 ### Level 2
 | 번호 | 풀이 |
