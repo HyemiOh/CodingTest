@@ -47,6 +47,7 @@
 | 37 | [직사각형 별찍기](Programmers/Lv1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
 | 38 | [햄버거 만들기](Programmers/Lv1/햄버거%20만들기.md)
 | 39 | [행렬의 덧셈](Programmers/Lv1/행렬의%20덧셈.md)
+| 40 | [명예의 전당](Programmers/Lv1/명예의%20전당.md)
 
 ### Level 2
 | 번호 | 풀이 |
