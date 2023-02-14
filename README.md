@@ -48,7 +48,7 @@
 | 38 | [햄버거 만들기](Programmers/Lv1/햄버거%20만들기.md)
 | 39 | [행렬의 덧셈](Programmers/Lv1/행렬의%20덧셈.md)
 | 40 | [명예의 전당](Programmers/Lv1/명예의%20전당.md)
-| 41 | [문자열 내 마음대로 정렬하기](Programmers/Lv1/문자열%20내%20마음대로%20정렬하기)
+| 41 | [문자열 내 마음대로 정렬하기](Programmers/Lv1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
 
 ### Level 2
 | 번호 | 풀이 |
