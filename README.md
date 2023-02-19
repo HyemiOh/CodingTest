@@ -58,3 +58,4 @@
 | 2 | [JadenCase 문자열 만들기](Programmers/Lv2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
 | 3 | [이진 변환 반복하기](Programmers/Lv2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md) |
 | 4 | [최댓값과 최솟값](Programmers/Lv2/최댓값과%20최솟값.md) |
+| 5 | [N개의 최소공배수](Programmers/Lv2/N개의%20최소공배수.md) |
