@@ -50,6 +50,7 @@
 | 40 | [명예의 전당](Programmers/Lv1/명예의%20전당.md)
 | 41 | [문자열 내 마음대로 정렬하기](Programmers/Lv1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
 | 42 | [정수 제곱근 판별](Programmers/Lv1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.md)
+| 43 | [약수의 합](Programmers/Lv1/약수의%20합.md)
 
 ### Level 2
 | 번호 | 풀이 |
