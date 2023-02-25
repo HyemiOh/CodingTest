@@ -52,6 +52,7 @@
 | 42 | [정수 제곱근 판별](Programmers/Lv1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.md)
 | 43 | [약수의 합](Programmers/Lv1/약수의%20합.md)
 | 44 | [수박수박수박수박수박수?](Programmers/Lv1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.md)
+| 45 | [평균 구하기](Programmers/Lv1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 
 ### Level 2
 | 번호 | 풀이 |
