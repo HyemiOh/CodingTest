@@ -54,6 +54,7 @@
 | 44 | [수박수박수박수박수박수?](Programmers/Lv1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.md)
 | 45 | [평균 구하기](Programmers/Lv1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 | 46 | [최대공약수와 최소공배수](Programmers/Lv1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+| 47 | [두 정수 사이의 합](Programmers/Lv1/두%20정수%20사이의%20합.md)
 
 ### Level 2
 | 번호 | 풀이 |
