@@ -72,3 +72,4 @@
 | 11 | [연속 부분 수열 합의 개수](Programmers/Lv2/연속%20부분%20수열%20합의%20개수.md) |
 | 12 | [귤 고르기](Programmers/Lv2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.md) |
 | 13 | [가장 큰 수](Programmers/Lv2/가장%20큰%20수.md) |
+| 14 | [소수 찾기](Programmers/Lv2/소수%20찾기.md) |
