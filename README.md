@@ -77,3 +77,4 @@
 | 15 | [괄호 회전하기](Programmers/Lv2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.md) |
 | 16 | [튜플](Programmers/Lv2/튜플.md) |
 | 17 | [오픈채팅방](Programmers/Lv2/오픈채팅방.md) |
+| 18 | [할인 행사](Programmers/Lv2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.md) |
