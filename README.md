@@ -57,6 +57,7 @@
 | 47 | [두 정수 사이의 합](Programmers/Lv1/두%20정수%20사이의%20합.md)
 | 48 | [카드 뭉치](Programmers/Lv1/카드%20뭉치.md) |
 | 49 | [대충 만든 자판](Programmers/Lv1/대충%20만든%20자판.md) |
+| 50 | [옹알이 (2)](Programmers/Lv1/옹알이%20(2).md) |
 
 ### Level 2
 | 번호 | 풀이 |
