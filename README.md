@@ -82,3 +82,4 @@
 | 18 | [할인 행사](Programmers/Lv2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.md) |
 | 19 | [피로도](Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.md) |
 | 20 | [기능개발](Programmers/Lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.md) |
+| 21 | [프린터](Programmers/Lv2/%ED%94%84%EB%A6%B0%ED%84%B0.md) |
