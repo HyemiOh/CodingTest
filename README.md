@@ -83,3 +83,4 @@
 | 19 | [피로도](Programmers/Lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.md) |
 | 20 | [기능개발](Programmers/Lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.md) |
 | 21 | [프린터](Programmers/Lv2/%ED%94%84%EB%A6%B0%ED%84%B0.md) |
+| 22 | [k진수에서 소수 개수 구하기](Programmers/Lv2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) |
