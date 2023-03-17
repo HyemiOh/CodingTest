@@ -85,3 +85,4 @@
 | 21 | [프린터](Programmers/Lv2/%ED%94%84%EB%A6%B0%ED%84%B0.md) |
 | 22 | [k진수에서 소수 개수 구하기](Programmers/Lv2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) |
 | 23 | [덧칠하기](Programmers/Lv2/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.md) |
+| 24 | [큰 수 만들기](Programmers/Lv2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
