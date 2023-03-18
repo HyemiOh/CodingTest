@@ -87,3 +87,4 @@
 | 23 | [덧칠하기](Programmers/Lv2/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.md) |
 | 24 | [큰 수 만들기](Programmers/Lv2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
 | 25 | [카펫](Programmers/Lv2/카펫.md) |
+| 26 | [예상 대진표](Programmers/Lv2/예상%20대진표.md) |
