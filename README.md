@@ -91,3 +91,4 @@
 | 27 | [n^2 배열 자르기](Programmers/Lv2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md) |
 | 28 | [롤케이크 자르기](Programmers/Lv2/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md) |
 | 29 | [타겟 넘버](Programmers/Lv2/타겟%20넘버.md) |
+| 30 | [모음 사전](Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.md) |
