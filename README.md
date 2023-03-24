@@ -92,3 +92,4 @@
 | 28 | [롤케이크 자르기](Programmers/Lv2/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md) |
 | 29 | [타겟 넘버](Programmers/Lv2/타겟%20넘버.md) |
 | 30 | [모음 사전](Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.md) |
+| 31 | [2개 이하로 다른 비트](Programmers/Lv2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.md) |
