@@ -58,6 +58,7 @@
 | 48 | [카드 뭉치](Programmers/Lv1/카드%20뭉치.md) |
 | 49 | [대충 만든 자판](Programmers/Lv1/대충%20만든%20자판.md) |
 | 50 | [옹알이 (2)](Programmers/Lv1/옹알이%20(2).md) |
+| 51 | [바탕화면 정리](Programmers/Lv1/바탕화면%20정리.md) |
 
 ### Level 2
 | 번호 | 풀이 |
