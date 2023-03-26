@@ -59,6 +59,7 @@
 | 49 | [대충 만든 자판](Programmers/Lv1/대충%20만든%20자판.md) |
 | 50 | [옹알이 (2)](Programmers/Lv1/옹알이%20(2).md) |
 | 51 | [바탕화면 정리](Programmers/Lv1/바탕화면%20정리.md) |
+| 52 | [둘만의 암호](Programmers/Lv1/둘만의%20암호.md) |
 
 ### Level 2
 | 번호 | 풀이 |
