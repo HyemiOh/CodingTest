@@ -95,3 +95,4 @@
 | 29 | [타겟 넘버](Programmers/Lv2/타겟%20넘버.md) |
 | 30 | [모음 사전](Programmers/Lv2/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.md) |
 | 31 | [2개 이하로 다른 비트](Programmers/Lv2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.md) |
+| 32 | [다리를 지나는 트럭](Programmers/Lv2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.md) |
