@@ -99,3 +99,4 @@
 | 32 | [다리를 지나는 트럭](Programmers/Lv2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.md) |
 | 33 | [택배상자](Programmers/Lv2/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.md) |
 | 34 | [숫자 변환하기](Programmers/Lv2/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md) |
+| 35 | [삼각 달팽이](Programmers/Lv2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.md) |
