@@ -100,3 +100,4 @@
 | 33 | [택배상자](Programmers/Lv2/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.md) |
 | 34 | [숫자 변환하기](Programmers/Lv2/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md) |
 | 35 | [삼각 달팽이](Programmers/Lv2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.md) |
+| 36 | [두 큐 합 같게 만들기](Programmers/Lv2/%EB%91%90%20%ED%81%90%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) |
