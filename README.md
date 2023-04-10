@@ -63,6 +63,7 @@
 | 50 | [옹알이 (2)](Programmers/Lv1/옹알이%20(2).md) |
 | 51 | [바탕화면 정리](Programmers/Lv1/바탕화면%20정리.md) |
 | 52 | [둘만의 암호](Programmers/Lv1/둘만의%20암호.md) |
+| 53 | [추억 점수](Programmers/Lv1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md) |
 
 ### Level 2
 | 번호 | 풀이 |
