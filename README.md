@@ -107,3 +107,4 @@
 | 37 | [점 찍기](Programmers/Lv2/%EC%A0%90%20%EC%B0%8D%EA%B8%B0.md) |
 | 38 | [주차 요금 계산](Programmers/Lv2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.md) |
 | 39 | [메뉴 리뉴얼](Programmers/Lv2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.md) |
+| 40 | [수식 최대화](Programmers/Lv2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.md) |
