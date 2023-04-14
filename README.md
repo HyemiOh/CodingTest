@@ -109,3 +109,4 @@
 | 39 | [메뉴 리뉴얼](Programmers/Lv2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.md) |
 | 40 | [수식 최대화](Programmers/Lv2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.md) |
 | 41 | [숫자 카드 나누기](Programmers/Lv2/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.md) |
+| 42 | [혼자 놀기의 달인](Programmers/Lv2/%ED%98%BC%EC%9E%90%20%EB%86%80%EA%B8%B0%EC%9D%98%20%EB%8B%AC%EC%9D%B8.md) |
