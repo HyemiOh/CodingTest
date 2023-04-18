@@ -111,3 +111,9 @@
 | 41 | [숫자 카드 나누기](Programmers/Lv2/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.md) |
 | 42 | [혼자 놀기의 달인](Programmers/Lv2/%ED%98%BC%EC%9E%90%20%EB%86%80%EA%B8%B0%EC%9D%98%20%EB%8B%AC%EC%9D%B8.md) |
 | 43 | [문자열 압축](Programmers/Lv2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.md) |
+
+## 구름LEVEL
+### Level 2
+| 번호 | 풀이 |
+| --- | --- |
+| 1 | [빠진 수 찾기](Goorm/Lv2/%EB%B9%A0%EC%A7%84%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) |
