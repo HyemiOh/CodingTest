@@ -8,6 +8,7 @@
 | 4 | [7의 개수](Programmers/Lv0/7%EC%9D%98%20%EA%B0%9C%EC%88%98.md) |
 | 5 | [로그인 성공?](Programmers/Lv0/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5.md) |
 | 6 | [배열 조각하기](Programmers/Lv0/%EB%B0%B0%EC%97%B4%20%EC%A1%B0%EA%B0%81%ED%95%98%EA%B8%B0.md) |
+| 7 | [주사위 게임 2](Programmers/Lv0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%202.md) |
 
 ### Level 1
 | 번호 | 풀이 |
