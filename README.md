@@ -121,3 +121,9 @@
 | 번호 | 풀이 |
 | --- | --- |
 | 1 | [빠진 수 찾기](Goorm/Lv2/%EB%B9%A0%EC%A7%84%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) |
+
+## LeetCode
+### Easy
+| 번호 | 풀이 |
+| --- | --- |
+| 1 | [Contains Duplicate](LeetCode/Easy/Contains%20Duplicate.md) |
