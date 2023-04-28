@@ -127,3 +127,4 @@
 | 번호 | 풀이 |
 | --- | --- |
 | 1 | [Contains Duplicate](LeetCode/Easy/Contains%20Duplicate.md) |
+| 2 | [Valid Anagram](LeetCode/Easy/Valid%20Anagram.md) |
