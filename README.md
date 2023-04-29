@@ -128,3 +128,4 @@
 | --- | --- |
 | 1 | [Contains Duplicate](LeetCode/Easy/Contains%20Duplicate.md) |
 | 2 | [Valid Anagram](LeetCode/Easy/Valid%20Anagram.md) |
+| 3 | [Two Sum](LeetCode/Easy/Two%20Sum.md) |
