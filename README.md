@@ -134,3 +134,4 @@
 | 번호 | 풀이 |
 | --- | --- |
 | 1 | [Group Anagrams](LeetCode/Medium/Group%20Anagrams.md) |
+| 2 | [Top K Frequent Elements](LeetCode/Medium/Top%20K%20Frequent%20Elements.md) |
