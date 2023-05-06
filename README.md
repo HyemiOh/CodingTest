@@ -130,6 +130,7 @@
 | 2 | [Valid Anagram](LeetCode/Easy/Valid%20Anagram.md) |
 | 3 | [Two Sum](LeetCode/Easy/Two%20Sum.md) |
 | 4 | [Valid Palindrome](LeetCode/Easy/Valid%20Palindrome.md) |
+| 5 | [Best Time to Buy and Sell Stock](LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 
 ### Medium
 | 번호 | 풀이 |
