@@ -132,6 +132,7 @@
 | 4 | [Valid Palindrome](LeetCode/Easy/Valid%20Palindrome.md) |
 | 5 | [Best Time to Buy and Sell Stock](LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 6 | [Valid Parentheses](LeetCode/Easy/Valid%20Parentheses.md) |
+| 7 | [Matrix Diagonal Sum](LeetCode/Easy/Matrix%20Diagonal%20Sum.md) |
 
 ### Medium
 | 번호 | 풀이 |
