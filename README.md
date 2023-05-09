@@ -133,6 +133,7 @@
 | 5 | [Best Time to Buy and Sell Stock](LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 6 | [Valid Parentheses](LeetCode/Easy/Valid%20Parentheses.md) |
 | 7 | [Matrix Diagonal Sum](LeetCode/Easy/Matrix%20Diagonal%20Sum.md) |
+| 8 | [Average Salary Excluding the Minimum and Maximum Salary](LeetCode/Easy/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md) |
 
 ### Medium
 | 번호 | 풀이 |
