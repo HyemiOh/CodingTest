@@ -137,6 +137,7 @@
 | 9 | [Sign of the Product of an Array](LeetCode/Easy/Sign%20of%20the%20Product%20of%20an%20Array.md) |
 | 10 | [Find the Difference of Two Arrays](LeetCode/Easy/Find%20the%20Difference%20of%20Two%20Arrays.md) |
 | 11 | [Array Partition](LeetCode/Easy/Array%20Partition.md) |
+| 12 | [Palindrome Number](LeetCode/Easy/Palindrome%20Number.md) |
 
 ### Medium
 | 번호 | 풀이 |
