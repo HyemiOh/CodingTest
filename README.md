@@ -147,3 +147,4 @@
 | 3 | [Product of Array Except Self](LeetCode/Medium/Product%20of%20Array%20Except%20Self.md) |
 | 4 | [Two Sum II - Input Array Is Sorted](LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md) |
 | 5 | [Boats to Save People](LeetCode/Medium/Boats%20to%20Save%20People.md) |
+| 6 | [Single Element in a Sorted Array](LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array.md) |
