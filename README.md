@@ -140,6 +140,7 @@
 | 12 | [Palindrome Number](LeetCode/Easy/Palindrome%20Number.md) |
 | 13 | [Longest Common Prefix](LeetCode/Easy/Longest%20Common%20Prefix.md) |
 | 14 | [Reverse Linked List](LeetCode/Easy/Reverse%20Linked%20List.md) |
+| 15 | [Merge Two Sorted Lists](LeetCode/Easy/Merge%20Two%20Sorted%20Lists.md) |
 
 
 ### Medium
