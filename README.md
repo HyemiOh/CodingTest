@@ -141,7 +141,7 @@
 | 13 | [Longest Common Prefix](LeetCode/Easy/Longest%20Common%20Prefix.md) |
 | 14 | [Reverse Linked List](LeetCode/Easy/Reverse%20Linked%20List.md) |
 | 15 | [Merge Two Sorted Lists](LeetCode/Easy/Merge%20Two%20Sorted%20Lists.md) |
-| 16 | [Merge Two Sorted Lists](LeetCode/Easy/Binary%20Search.md) |
+| 16 | [Binary Search](LeetCode/Easy/Binary%20Search.md) |
 
 
 ### Medium
