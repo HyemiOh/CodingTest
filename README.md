@@ -158,3 +158,4 @@
 | 8 | [Koko Eating Bananas](LeetCode/Medium/Koko%20Eating%20Bananas.md) |
 | 9 | [Find Minimum in Rotated Sorted Array](LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) |
 | 10 | [Reverse Words in a String](LeetCode/Medium/Reverse%20Words%20in%20a%20String.md) |
+| 11 | [Increasing Triplet Subsequence](LeetCode/Medium/Increasing%20Triplet%20Subsequence.md) |
