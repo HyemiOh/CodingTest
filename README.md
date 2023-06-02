@@ -160,3 +160,4 @@
 | 10 | [Reverse Words in a String](LeetCode/Medium/Reverse%20Words%20in%20a%20String.md) |
 | 11 | [Increasing Triplet Subsequence](LeetCode/Medium/Increasing%20Triplet%20Subsequence.md) |
 | 12 | [String Compression](LeetCode/Medium/String%20Compression.md) |
+| 13 | [Longest Consecutive Sequence](LeetCode/Medium/Longest%20Consecutive%20Sequence.md) |
