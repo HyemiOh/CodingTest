@@ -145,6 +145,7 @@
 | 16 | [Binary Search](LeetCode/Easy/Binary%20Search.md) |
 | 17 | [Merge Strings Alternately](LeetCode/Easy/Merge%20Strings%20Alternately.md) |
 | 18 | [Kids With the Greatest Number of Candies](LeetCode/Easy/Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
+| 19 | [Move Zeroes](LeetCode/Easy/Move%20Zeroes.md) |
 
 
 ### Medium
