@@ -147,6 +147,7 @@
 | 18 | [Kids With the Greatest Number of Candies](LeetCode/Easy/Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 19 | [Move Zeroes](LeetCode/Easy/Move%20Zeroes.md) |
 | 20 | [Reverse Vowels of a String](LeetCode/Easy/Reverse%20Vowels%20of%20a%20String.md) |
+| 21 | [Can Place Flowers](LeetCode/Easy/Can%20Place%20Flowers.md) |
 
 
 ### Medium
