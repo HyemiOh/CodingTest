@@ -148,6 +148,7 @@
 | 19 | [Move Zeroes](LeetCode/Easy/Move%20Zeroes.md) |
 | 20 | [Reverse Vowels of a String](LeetCode/Easy/Reverse%20Vowels%20of%20a%20String.md) |
 | 21 | [Can Place Flowers](LeetCode/Easy/Can%20Place%20Flowers.md) |
+| 22 | [Is Subsequence](LeetCode/Easy/Is%20Subsequence.md) |
 
 
 ### Medium
