@@ -149,6 +149,8 @@
 | 20 | [Reverse Vowels of a String](LeetCode/Easy/Reverse%20Vowels%20of%20a%20String.md) |
 | 21 | [Can Place Flowers](LeetCode/Easy/Can%20Place%20Flowers.md) |
 | 22 | [Is Subsequence](LeetCode/Easy/Is%20Subsequence.md) |
+| 23 | [Kth Largest Element in a Stream](LeetCode/Easy/Kth%20Largest%20Element%20in%20a%20Stream.md) |
+
 
 
 ### Medium
