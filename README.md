@@ -50,6 +50,8 @@
 | 15 | [Max Number of K-Sum Pairs](LeetCode/Medium/Max%20Number%20of%20K-Sum%20Pairs.md) |
 | 16 | [Maximum Number of Vowels in a Substring of Given Length](LeetCode/Medium/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md) |
 | 17 | [Max Consecutive Ones III](LeetCode/Medium/Max%20Consecutive%20Ones%20III.md) |
+| 18 | [Longest Subarray of 1's After Deleting One Element](LeetCode/Medium/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.md) |
+
 
 ## 프로그래머스 코딩테스트
 ### Level 0
