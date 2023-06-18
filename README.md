@@ -150,7 +150,7 @@
 | 21 | [Can Place Flowers](LeetCode/Easy/Can%20Place%20Flowers.md) |
 | 22 | [Is Subsequence](LeetCode/Easy/Is%20Subsequence.md) |
 | 23 | [Kth Largest Element in a Stream](LeetCode/Easy/Kth%20Largest%20Element%20in%20a%20Stream.md) |
-
+| 24 | [Maximum Average Subarray I](LeetCode/Easy/Maximum%20Average%20Subarray%20I.md) |
 
 
 ### Medium
