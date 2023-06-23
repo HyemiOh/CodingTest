@@ -56,6 +56,7 @@
 | 20 | [Removing Stars From a String](LeetCode/Medium/Removing%20Stars%20From%20a%20String.md) |
 | 21 | [Decode String](LeetCode/Medium/Decode%20String.md) |
 | 22 | [Count Good Nodes in Binary Tree](LeetCode/Medium/Count%20Good%20Nodes%20in%20Binary%20Tree.md) |
+| 23 | [Deepest Leaves Sum](LeetCode/Medium/Deepest%20Leaves%20Sum.md) |
 
 
 ## 프로그래머스 코딩테스트
