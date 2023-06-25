@@ -29,6 +29,7 @@
 | 23 | [Kth Largest Element in a Stream](LeetCode/Easy/Kth%20Largest%20Element%20in%20a%20Stream.md) |
 | 24 | [Maximum Average Subarray I](LeetCode/Easy/Maximum%20Average%20Subarray%20I.md) |
 | 25 | [Find the Highest Altitude](LeetCode/Easy/Find%20the%20Highest%20Altitude.md) |
+| 26 | [Find Pivot Index](LeetCode/Easy/Find%20Pivot%20Index.md) |
 
 
 ### Medium
