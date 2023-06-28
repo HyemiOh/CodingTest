@@ -60,6 +60,7 @@
 | 23 | [Deepest Leaves Sum](LeetCode/Medium/Deepest%20Leaves%20Sum.md) |
 | 24 | [Delete the Middle Node of a Linked List](LeetCode/Medium/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.md) |
 | 25 | [Binary Tree Right Side View](LeetCode/Medium/Binary%20Tree%20Right%20Side%20View.md) |
+| 26 | [Maximum Level Sum of a Binary Tree](LeetCode/Medium/Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.md) |
 
 
 ## 프로그래머스 코딩테스트
