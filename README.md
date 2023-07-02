@@ -31,6 +31,7 @@
 | 25 | [Find the Highest Altitude](LeetCode/Easy/Find%20the%20Highest%20Altitude.md) |
 | 26 | [Find Pivot Index](LeetCode/Easy/Find%20Pivot%20Index.md) |
 | 27 | [Unique Number of Occurrences](LeetCode/Easy/Unique%20Number%20of%20Occurrences.md) |
+| 28 | [Maximum Depth of Binary Tree](LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree.md) |
 
 
 ### Medium
