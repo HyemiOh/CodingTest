@@ -34,6 +34,7 @@
 | 28 | [Maximum Depth of Binary Tree](LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree.md) |
 | 29 | [Leaf-Similar Trees](LeetCode/Easy/Leaf-Similar%20Trees.md) |
 | 30 | [Check If It Is a Straight Line](LeetCode/Easy/Check%20If%20It%20Is%20a%20Straight%20Line.md) |
+| 31 | [Merge Sorted Array](LeetCode/Easy/Merge%20Sorted%20Array.md) |
 
 
 ### Medium
