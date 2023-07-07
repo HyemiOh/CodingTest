@@ -68,6 +68,7 @@
 | 26 | [Maximum Level Sum of a Binary Tree](LeetCode/Medium/Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.md) |
 | 27 | [Keys and Rooms](LeetCode/Medium/Keys%20and%20Rooms.md) |
 | 28 | [Number of Provinces](LeetCode/Medium/Number%20of%20Provinces.md) |
+| 29 | [Remove Duplicates from Sorted Array II](LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II.md) |
 
 
 ## 프로그래머스 코딩테스트
