@@ -36,6 +36,7 @@
 | 30 | [Check If It Is a Straight Line](LeetCode/Easy/Check%20If%20It%20Is%20a%20Straight%20Line.md) |
 | 31 | [Merge Sorted Array](LeetCode/Easy/Merge%20Sorted%20Array.md) |
 | 32 | [Search in a Binary Search Tree](LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree.md) |
+| 33 | [Remove Element](LeetCode/Easy/Remove%20Element.md) |
 
 
 ### Medium
