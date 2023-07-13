@@ -74,6 +74,7 @@
 | 30 | [Rotate Array](LeetCode/Medium/Rotate%20Array.md) |
 | 31 | [Best Time to Buy and Sell Stock II](LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) |
 | 32 | [Jump Game](LeetCode/Medium/Jump%20Game.md) |
+| 33 | [H-Index](LeetCode/Medium/H-Index.md) |
 
 
 ## 프로그래머스 코딩테스트
