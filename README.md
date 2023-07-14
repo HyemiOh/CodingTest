@@ -75,6 +75,7 @@
 | 31 | [Best Time to Buy and Sell Stock II](LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) |
 | 32 | [Jump Game](LeetCode/Medium/Jump%20Game.md) |
 | 33 | [H-Index](LeetCode/Medium/H-Index.md) |
+| 34 | [Insert Delete GetRandom O(1)](LeetCode/Medium/Insert%20Delete%20GetRandom%20O(1).md) |
 
 
 ## 프로그래머스 코딩테스트
