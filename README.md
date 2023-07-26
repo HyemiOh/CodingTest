@@ -38,6 +38,7 @@
 | 32 | [Search in a Binary Search Tree](LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree.md) |
 | 33 | [Remove Element](LeetCode/Easy/Remove%20Element.md) |
 | 34 | [Remove Duplicates from Sorted Array](LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array.md) |
+| 35 | [Roman to Integer](LeetCode/Easy/Roman%20to%20Integer.md) |
 
 
 ### Medium
