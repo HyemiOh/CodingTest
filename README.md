@@ -82,6 +82,7 @@
 | 35 | [Gas Station](LeetCode/Medium/Gas%20Station.md) |
 | 36 | [Integer to Roman](LeetCode/Medium/Integer%20to%20Roman.md) |
 | 37 | [Jump Game II](LeetCode/Medium/Jump%20Game%20II.md) |
+| 38 | [Zigzag Conversion](LeetCode/Medium/Zigzag%20Conversion.md) |
 
 
 ## 프로그래머스 코딩테스트
