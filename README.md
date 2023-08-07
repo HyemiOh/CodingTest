@@ -85,6 +85,12 @@
 | 38 | [Zigzag Conversion](LeetCode/Medium/Zigzag%20Conversion.md) |
 
 
+### Hard
+| 번호 | 풀이 |
+| --- | --- |
+| 1 | [Text Justification](LeetCode/Hard/Text%20Justification.md) |
+
+
 ## 프로그래머스 코딩테스트
 ### Level 0
 | 번호 | 풀이 |
