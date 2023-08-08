@@ -83,6 +83,7 @@
 | 36 | [Integer to Roman](LeetCode/Medium/Integer%20to%20Roman.md) |
 | 37 | [Jump Game II](LeetCode/Medium/Jump%20Game%20II.md) |
 | 38 | [Zigzag Conversion](LeetCode/Medium/Zigzag%20Conversion.md) |
+| 39 | [3Sum](LeetCode/Medium/3Sum.md) |
 
 
 ### Hard
