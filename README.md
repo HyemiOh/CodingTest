@@ -40,6 +40,7 @@
 | 34 | [Remove Duplicates from Sorted Array](LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array.md) |
 | 35 | [Roman to Integer](LeetCode/Easy/Roman%20to%20Integer.md) |
 | 36 | [Length of Last Word](LeetCode/Easy/Length%20of%20Last%20Word.md) |
+| 37 | [Excel Sheet Column Title](LeetCode/Easy/Excel%20Sheet%20Column%20Title.md) |
 
 
 ### Medium
