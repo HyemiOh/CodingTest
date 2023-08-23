@@ -85,6 +85,7 @@
 | 37 | [Jump Game II](LeetCode/Medium/Jump%20Game%20II.md) |
 | 38 | [Zigzag Conversion](LeetCode/Medium/Zigzag%20Conversion.md) |
 | 39 | [3Sum](LeetCode/Medium/3Sum.md) |
+| 40 | [Minimum Size Subarray Sum](LeetCode/Medium/Minimum%20Size%20Subarray%20Sum.md) |
 
 
 ### Hard
