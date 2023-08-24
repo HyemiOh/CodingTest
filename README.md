@@ -86,6 +86,7 @@
 | 38 | [Zigzag Conversion](LeetCode/Medium/Zigzag%20Conversion.md) |
 | 39 | [3Sum](LeetCode/Medium/3Sum.md) |
 | 40 | [Minimum Size Subarray Sum](LeetCode/Medium/Minimum%20Size%20Subarray%20Sum.md) |
+| 41 | [Longest Substring Without Repeating Characters](LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters.md) |
 
 
 ### Hard
