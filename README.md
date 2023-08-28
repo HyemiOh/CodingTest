@@ -41,6 +41,7 @@
 | 35 | [Roman to Integer](LeetCode/Easy/Roman%20to%20Integer.md) |
 | 36 | [Length of Last Word](LeetCode/Easy/Length%20of%20Last%20Word.md) |
 | 37 | [Excel Sheet Column Title](LeetCode/Easy/Excel%20Sheet%20Column%20Title.md) |
+| 38 | [Implement Stack using Queues](LeetCode/Easy/Implement%20Stack%20using%20Queues.md) |
 
 
 ### Medium
