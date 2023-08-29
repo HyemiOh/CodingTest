@@ -88,6 +88,7 @@
 | 39 | [3Sum](LeetCode/Medium/3Sum.md) |
 | 40 | [Minimum Size Subarray Sum](LeetCode/Medium/Minimum%20Size%20Subarray%20Sum.md) |
 | 41 | [Longest Substring Without Repeating Characters](LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters.md) |
+| 42 | [Minimum Penalty for a Shop](LeetCode/Medium/Minimum%20Penalty%20for%20a%20Shop.md) |
 
 
 ### Hard
