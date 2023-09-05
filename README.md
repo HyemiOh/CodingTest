@@ -43,6 +43,7 @@
 | 37 | [Excel Sheet Column Title](LeetCode/Easy/Excel%20Sheet%20Column%20Title.md) |
 | 38 | [Implement Stack using Queues](LeetCode/Easy/Implement%20Stack%20using%20Queues.md) |
 | 39 | [Search Insert Position](LeetCode/Easy/Search%20Insert%20Position.md) |
+| 40 | [Linked List Cycle](LeetCode/Easy/Linked%20List%20Cycle.md) |
 
 ### Medium
 | 번호 | 풀이 |
