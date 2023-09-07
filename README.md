@@ -44,6 +44,7 @@
 | 38 | [Implement Stack using Queues](LeetCode/Easy/Implement%20Stack%20using%20Queues.md) |
 | 39 | [Search Insert Position](LeetCode/Easy/Search%20Insert%20Position.md) |
 | 40 | [Linked List Cycle](LeetCode/Easy/Linked%20List%20Cycle.md) |
+| 41 | [Average of Levels in Binary Tree](LeetCode/Easy/Average%20of%20Levels%20in%20Binary%20Tree.md) |
 
 ### Medium
 | 번호 | 풀이 |
