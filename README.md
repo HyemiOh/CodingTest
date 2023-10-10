@@ -46,6 +46,7 @@
 | 40 | [Linked List Cycle](LeetCode/Easy/Linked%20List%20Cycle.md) |
 | 41 | [Average of Levels in Binary Tree](LeetCode/Easy/Average%20of%20Levels%20in%20Binary%20Tree.md) |
 | 42 | [Minimum Depth of Binary Tree](LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree.md) |
+| 43 | [Single Number](LeetCode/Easy/Single%20Number.md) |
 
 ### Medium
 | 번호 | 풀이 |
