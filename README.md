@@ -47,6 +47,7 @@
 | 41 | [Average of Levels in Binary Tree](LeetCode/Easy/Average%20of%20Levels%20in%20Binary%20Tree.md) |
 | 42 | [Minimum Depth of Binary Tree](LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree.md) |
 | 43 | [Single Number](LeetCode/Easy/Single%20Number.md) |
+| 44 | [Convert 1D Array Into 2D Array](LeetCode/Easy/Convert%201D%20Array%20Into%202D%20Array.md) |
 
 ### Medium
 | 번호 | 풀이 |
