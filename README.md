@@ -97,6 +97,7 @@
 | 43 | [Find All Duplicates in an Array](LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array.md) |
 | 44 | [Set Matrix Zeroes](LeetCode/Medium/Set%20Matrix%20Zeroes.md) |
 | 45 | [Spiral Matrix](LeetCode/Medium/Spiral%20Matrix.md) |
+| 46 | [Rotate Image](LeetCode/Medium/Rotate%20Image.md) |
 
 ### Hard
 | 번호 | 풀이 |
